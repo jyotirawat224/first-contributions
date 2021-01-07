@@ -115,6 +115,7 @@
 - [pranavkhekare](https://github.com/pranavkhekare)
 - [Talha Tariq](https://github.com/TT-talhatariq)
 - [Harsh Maroo](https://github.com/harshmaroo)
+- [Jyoti Rawat](https://github.com/jyotirawat224)
 - [Enrico Termine](https://github.com/enricospT)
 - [Richard Ruge](https://github.com/richardruge/first-contributions)
 - [Omazdev](https://github.com/omazdev)
